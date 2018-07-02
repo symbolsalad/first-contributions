@@ -4522,3 +4522,4 @@
 - [Craig Campbell](https://github.com/craigsoup)
 - [Jefferson] (https://github.com/jefferson2z)
 - [Marc Kelechava](https://github.com/marcmuon)
+- [John Macdonald] (https://github.com/symbolsalad)
